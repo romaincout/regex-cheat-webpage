@@ -1,4 +1,7 @@
-regex-cheat-webpage
+Readme for regex-cheat-webpage
 ===================
 
-Regex (cheat|memo) webpage for {vi, sed, grep, [...]}, can be exported to corresponding(s?) cheat sheets
+
+Dynamic webpage resuming usage of regex for different software/librarires
+Info can be exported to corresponding(s?) cheat sheets
+
